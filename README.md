@@ -68,4 +68,16 @@ when you send a `GET` request to`/`, you'll receive:
 ```
 API Endpoint
 
+Deployment
+The Api is hosted at:
+```
+https://hngtaskretrievebasicinforrmation.vercel.app/
+```
+
+Backlink
+```
+https://hng.tech/hire/python-developers
+
+```
+
 
