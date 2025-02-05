@@ -20,5 +20,5 @@ def read_root():
     return {
             "email": "abdulsemiukusimo@gmail.com",
             "current_datetime": ISO,
-            "github_url": "https://github.com/Kusimo4real/HNG-Internship.git"
+            "github_url": "https://github.com/Kusimo4real/HNG-Internship"
             }
